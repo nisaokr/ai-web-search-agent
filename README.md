@@ -321,13 +321,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue on GitHub.
+For questions or feedback, please open an issue on GitHub or just easily send an email.
+okurnisanur@gmail.com
 
 ## ⭐ Star History
 
 If you find this project useful, please consider giving it a star!
 
----
 
-**Built with ❤️ using LangChain and Gemini**
 
